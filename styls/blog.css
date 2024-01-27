@@ -1,0 +1,138 @@
+.fast{
+     background-image: url('../styls/Banner\ Image.png');
+    height: 350px;
+    max-width: 1250px;
+    color:bisque;
+    margin-left: 120px;
+    margin-right: 120px;
+    text-align: center;
+    padding: 120px;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    background-repeat: no-repeat;
+    background-color: antiquewhite;
+    
+}
+.off{
+   text-align: center;
+   /* background-color: antiquewhite; */
+   padding: 10px;
+   margin-bottom: 100px;
+}
+#red{
+   color: red;
+}
+#any{
+   color:black;
+   font-size: large;
+}
+.third{
+   background-image: url('../styls/Vectorrr.png');
+   background-repeat: no-repeat;
+   height: 450px;
+   color: aliceblue;
+   text-align:center;
+   max-width: 1250;
+   margin-left: 120px;
+   margin-right: 120px;
+   padding: 120px;
+}
+.white{
+   color: white;
+   font-size: 30px;
+   justify-content: space-around;
+   
+}
+.four{
+   text-align: center;
+   
+}
+.th{
+   color: red;
+}
+.tht{
+   background-color: red;
+   text-decoration: none;
+}
+.five{
+   display: flex;
+   gap: 50px;
+   padding: 25px;
+   margin-right: 320px;
+   margin-left: 120px;
+   margin-top: 100px;
+   
+}
+.img{
+   height:300px;
+   width: 300px;
+}
+.cir{
+   margin-left: 320px;
+}
+.holi{
+   text-align: center;
+}
+.pic{
+   display: flex;
+   margin-left: 200px;
+   gap: 0px;
+}
+.demo{
+   margin-left: 120px;
+ margin-right: 120px;
+   
+}
+.m-six{
+   margin-left: 120px;
+   background-color: aliceblue;
+   margin-right: 120px;
+}
+.six{
+   color: red;
+   margin-top: 40px;
+}
+.main-pic{
+   display: flex;
+   height:300px;
+   width: 300px;
+   gap: 10px;
+}
+.main-p{
+   display: flex;
+   height:300px;
+   width: 300px;
+   gap: 10px;
+   margin-top: 10px;
+}
+.m-sv{
+   background-color: whitesmoke;
+   margin-left: 120px;
+   margin-right: 120px;
+}
+.sv{
+   text-align: center;
+   margin-top: 40px;
+   /* background-color: aliceblue; */
+   
+}
+.cr{
+   color: whitesmoke;
+   background-color: red;
+   text-decoration: none;
+}
+.m-last{
+   background-color: black;
+   margin-top: 40px;
+   margin-left: 120px;
+   margin-right: 120px;
+}
+.last{
+   display: flex;
+   padding: 10px;
+   gap: 820px;
+   color: aliceblue;
+}
+.l-img{
+   text-align: center;
+}
